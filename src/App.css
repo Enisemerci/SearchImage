@@ -1,0 +1,17 @@
+.searchDiv{
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 5px;
+}
+.searchDiv form{
+  display: flex;
+  flex-direction: column;
+}
+.imageList{
+  columns: 150px 3;
+  column-gap: 10px;
+}
+.imageListimg{
+  width: 100%;
+  margin-bottom: 10px;
+}
